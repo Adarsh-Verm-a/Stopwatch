@@ -1,0 +1,25 @@
+.dark-theme {
+    background-color: #333;
+    color: #fff;
+    color: wheat;
+}
+
+.dark-theme .timer {
+    color: wheat;
+}
+
+.dark-theme .stopwatch {
+    background-color: #444;
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.1);
+    color: wheat;
+}
+
+.dark-theme button {
+    background-color: #2ecc71;
+    /* Green button color in dark theme */
+}
+
+.dark-theme button:hover {
+    background-color: #27ae60;
+    /* Darker green on hover in dark theme */
+}
